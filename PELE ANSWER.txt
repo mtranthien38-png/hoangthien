@@ -1,0 +1,115 @@
+1. Emergency Department Note: 22-year-old: 
+Wrist sprain. Plan: RICE protocol (rest, ice, compression, elevation). Ibuprofen 400mg TID PRN. Return for re-evaluation only if symptoms worsen. No immobilization needed.
+
+2. Admission Note: 25-year-old female: 
+Admit to floor
+
+3. Emergency Department Note: 30-year-old: 
+Start levetiracetam 500mg IV for seizure prophylaxis 
+
+4. Admission Note: 34-year-old male: 
+admit to surgical ICU for observation and non-operative management
+
+5. Emergency Department Note: 35-year-old: 
+Start warfarin 5mg daily
+
+6. Admission Note: 40-year-old male: 
+Subarachnoid hemorrhage ruled out by negative CT
+
+7. Prescription Note: Patient: 42-year-old: 
+Levofloxacin 750mg daily for 5 days
+
+8. Admission Note: 45-year-old female: 
+trimethoprim-sulfamethoxazole DS BID
+
+9. Discharge Summary: 45-year-old female: 
+ciprofloxacin 500mg BID and metronidazole 500mg TID for 7 days
+
+10. Progress Note: 48-year-old female: 
+Labs within acceptable limits
+
+11. Operative Note: Procedure: Colonoscopy: ( có dòng 50 years old đó ):
+Recommend repeat colonoscopy in 10 years per guidelines  
+
+12. Admission Note: 52-year-old female: 
+Monitor with daily chest X-rays
+
+13. Discharge Summary: 54-year-old female: 
+Lumbar spine precautions reviewed
+
+14. Progress Note: 55-year-old male: 
+Recheck uric acid and CBC in 6 weeks
+
+15. Progress Note: 56-year-old female: 
+No need for hepatitis B monitoring during treatment
+
+16. Discharge Summary: 60-year-old male: 
+resume normal diet including alcohol in moderation once feeling better
+
+17. Emergency Department Note: 62-year-old: 
+Acute anterior STEMI
+
+18. Progress Note: 63-year-old male: 
+INR today: 1.8. Assessment: Therapeutic anticoagulation on rivaroxaban
+
+19. Discharge Summary: 68-year-old male: metformin 1000mg BID
+
+20. Progress Note: 70-year-old male: 
+left hip
+
+21. Progress Note: 71-year-old female: 
+Continue alendronate
+
+22. Discharge Summary: Patient is: ( câu này là 72 years old đó )
+SpO2 42% on room air 
+
+23. Discharge Summary: 73-year-old male: 
+oxybutynin 5mg BID
+
+24. Radiology Report: CT Head: ( là câu có 81 years old )
+acute left hemispheric stroke 
+
+25. Operative Note: Procedure: Right: 
+left inguinal canal
+
+26. Progress Note: Patient presents: 
+Primary hypothyroidism, consistent with lab findings showing suppressed TSH and low free T4
+
+27. Operative Note: Procedure: Cesarean: 
+14.2 pounds
+
+28. Operative Note: Procedure: Laparoscopic: 
+The appendix was visualized and appeared normal
+
+29. Operative Note: Procedure: Right: 
+complex tear of the lateral meniscus posterior horn
+
+30. Progress Note: Assessment: Atrial: 
+apixaban 50mg BID
+
+31. Operative Note: Procedure: Left: 
+right sternocleidomastoid muscle
+
+32. Admission Note: 7-year-old male: 
+Amoxicillin 500mg TID for 10 days
+
+33. Admission Note: Patient is: ( câu này có 58 years old đó nha )
+IV amoxicillin-clavulanate 875mg q12h 
+
+34. Admission Note: 83-year-old male: 
+haloperidol 2mg BID standing
+
+35. Admission Note: 78-year-old female:  
+Hold warfarin and bridge with enoxaparin 1mg/kg BID
+
+36. Progress Note: 44-year-old male:  
+Renal function mildly decreased, likely age-related
+
+37 . Progress Note: 58-year-old male :  
+Hypertension at goal
+
+39. Emergency Department Note: 8-month-old: 
+Amoxicillin 400mg (45mg/kg/day divided BID)
+
+41. Progress Note 38 years old - female :  
+Gestational hypertension
