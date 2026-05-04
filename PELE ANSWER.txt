@@ -16,6 +16,7 @@ ear-old: 1. Emergency Department Note: 22-year-old: 1. Emergency Department Note
 Wrist sprain. Plan: RICE protocol (rest, ice, compression1. Emergency Department Note: 22-year-old: 1. Emergency Department Note: 22-year-old: 
 
 
+
 Wrist sprain. Plan: RICE protocol (rest, ice, compression
 
 
